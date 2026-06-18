@@ -1,4 +1,4 @@
-# kaffka ( Java )
+# kaffka ( Java ) distributed events Streaming
 
 ## Producer - send events to kaffka(bucket)
 * strucutred ( organised )
